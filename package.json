@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Criando api com node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ederpbj/NodeApi.git"
+  },
+  "author": "Eder Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ederpbj/NodeApi/issues"
+  },
+  "homepage": "https://github.com/ederpbj/NodeApi#readme"
+}
